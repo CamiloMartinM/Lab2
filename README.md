@@ -1,4 +1,4 @@
-# Laboratorio 2 - Robótica de Desarrollo, Intro a ROS
+<h1 align="center"; style="text-align:center;">Laboratorio 2 - Robótica de Desarrollo, Intro a ROS</h1>
 ## Robótica 
 ### Camilo A. Martín Moreno - Jorge A. Daza Rodríguez
 ### Universidad Nacional de Colombia
