@@ -115,6 +115,7 @@ if __name__ == '__main__':
 En el siguiente video se presentan algunos de los resultados del laboratorio:
 
 [![Alt text](https://img.youtube.com/vi/2D7pDAbch9E/0.jpg)](https://www.youtube.com/embed/2D7pDAbch9E)
+
 Figura 1: Demostración Laboratorio
 
 Como se observa en el video el desarrollo del código en Phyton se dio de manera adecuada y se ven las diferentes trayectorias que tomó el programa.
