@@ -1,13 +1,13 @@
-#Laboratorio 2 - Robótica de Desarrollo, Intro a ROS
-##Robótica 
-###Camilo A. Martín Moreno - Jorge A. Daza Rodríguez
-###Universidad Nacional de Colombia
+# Laboratorio 2 - Robótica de Desarrollo, Intro a ROS
+## Robótica 
+### Camilo A. Martín Moreno - Jorge A. Daza Rodríguez
+### Universidad Nacional de Colombia
 
-#Introducción
+# Introducción
 
 En este laboratorio se busca conocer los fundamentos de ROS y su conexión a la consola de Linux, luego de esto conocer algunos de sus comandos fundamentales y conectar nodos mediante Matlab, finalmente se usará Phyton para realizar una implementación de Turtlesim. 
 
-#Conexión de ROS con Matlab
+# Conexión de ROS con Matlab
 
 Para esta conexión es necesario iniciar la terminal de ubuntu con los siguientes comandos:
 
@@ -109,7 +109,7 @@ if __name__ == '__main__':
         pass 
 ```    
 
-#Resultados
+# Resultados
 
 En el siguiente video se presentan algunos de los resultados del laboratorio:
 
@@ -117,7 +117,7 @@ En el siguiente video se presentan algunos de los resultados del laboratorio:
 
 Como se observa en el video el desarrollo del código en Phyton se dio de manera adecuada y se ven las diferentes trayectorias que tomó el programa.
 
-#Conclusiones
+# Conclusiones
 
 Es importante aprender el funcionamiento ROS y su conexión mediante de nodos, entender este funcionamiento es útil en el área de la robótica.
 
